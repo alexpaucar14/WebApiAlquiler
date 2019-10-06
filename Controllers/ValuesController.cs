@@ -14,7 +14,7 @@ namespace WebApiAlquiler.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2", "Value3" };
+            return new string[] { "value1", "value2", "Value3","Value4" };
         }
 
         // GET api/values/5
