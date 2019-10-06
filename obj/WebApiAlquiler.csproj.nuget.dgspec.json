@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source_Code\\Alquiler_de_Propiedades\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj": {}
+    "D:\\Source_Code\\AlquiSoft\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj": {}
   },
   "projects": {
-    "D:\\Source_Code\\Alquiler_de_Propiedades\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj": {
+    "D:\\Source_Code\\AlquiSoft\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source_Code\\Alquiler_de_Propiedades\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj",
+        "projectUniqueName": "D:\\Source_Code\\AlquiSoft\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj",
         "projectName": "WebApiAlquiler",
-        "projectPath": "D:\\Source_Code\\Alquiler_de_Propiedades\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj",
-        "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
-        "outputPath": "D:\\Source_Code\\Alquiler_de_Propiedades\\Code\\WebApiAlquiler\\obj\\",
+        "projectPath": "D:\\Source_Code\\AlquiSoft\\Code\\WebApiAlquiler\\WebApiAlquiler.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\Source_Code\\AlquiSoft\\Code\\WebApiAlquiler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -54,23 +55,16 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
