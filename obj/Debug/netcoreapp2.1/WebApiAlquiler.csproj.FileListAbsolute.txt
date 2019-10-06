@@ -3,7 +3,6 @@ D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\bin\Debug\netcoreapp2.1\WebApiAlqui
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\bin\Debug\netcoreapp2.1\WebApiAlquiler.runtimeconfig.dev.json
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\bin\Debug\netcoreapp2.1\WebApiAlquiler.dll
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\bin\Debug\netcoreapp2.1\WebApiAlquiler.pdb
-D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.csprojAssemblyReference.cache
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.csproj.CoreCompileInputs.cache
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.RazorAssemblyInfo.cache
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlqui
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.RazorTargetAssemblyInfo.cache
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.dll
 D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.pdb
+D:\Source_Code\AlquiSoft\Code\WebApiAlquiler\obj\Debug\netcoreapp2.1\WebApiAlquiler.csprojAssemblyReference.cache

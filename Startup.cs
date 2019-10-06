@@ -26,7 +26,11 @@ namespace WebApiAlquiler
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
-
+        public static string ConnectionString
+        {
+            get;
+            private set;
+        }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
@@ -34,7 +38,7 @@ namespace WebApiAlquiler
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            ConnectionString = Configuration["ConnectionStrings:DefaultConnection"];
             app.UseMvc();
         }
     }

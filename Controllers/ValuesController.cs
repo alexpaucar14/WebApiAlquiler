@@ -16,7 +16,13 @@ namespace WebApiAlquiler.Controllers
         {
             return new string[] { "value1", "value2", "Value3","Value4","Value5", "Value6" };
         }
+        //public static List<Teacher> GetListTeachers()
+        //{
+        //    var objUsuarioRs = SqlConnector.getListObjectBySql<Teacher>("Select * From Teacher");
 
+        //    return objUsuarioRs;
+
+        //}
         // GET api/values/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
